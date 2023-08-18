@@ -1,8 +1,8 @@
 %% LOAD THE TEXT.LOG FILE 
 % Replace by the log file of interest.
 % (Creates a 1 cell variable that holds the log file location) 
-%filename = 'C:\Users\maxju\Documents\Customer Support\Nagoya University\command_from_handset_log\candump-2023-05-08_120204.log';
-filename = 'C:\Users\maxju\Documents\Customer Support\Nagoya University\command_from _pc_log\candump-2023-05-08_103847.log';
+filename = 'C:\Users\maxju\Documents\Customer Support\Nagoya University\command_from _pc_log\candump-2023-05-08_104058.log';
+%filename = 'C:\Users\maxju\Documents\Customer Support\Nagoya University\command_from _pc_log\candump-2023-05-08_103847.log';
 %% READ COLUMNS OF DATA AS TEXT
 % (Creates a 1 cell variable that holds the formatting information)
 % For information, see the TEXTSCAN documentation
